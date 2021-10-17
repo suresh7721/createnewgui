@@ -1,0 +1,23 @@
+From c993224acaea60daf8748c780ac295c2fcde9628 Mon Sep 17 00:00:00 2001
+From: "DESKTOP-72QG765\\91707" <suresh.7721@gmail.com>
+Date: Sun, 17 Oct 2021 23:21:52 +0530
+Subject: [PATCH] fake web site has been created
+
+---
+ fakewebsite.txt | 3 +++
+ 1 file changed, 3 insertions(+)
+ create mode 100644 fakewebsite.txt
+
+diff --git a/fakewebsite.txt b/fakewebsite.txt
+new file mode 100644
+index 0000000..59b7982
+--- /dev/null
++++ b/fakewebsite.txt
+@@ -0,0 +1,3 @@
++hello i created fake web site
++
++error has been created
+\ No newline at end of file
+-- 
+2.33.0.windows.2
+
